@@ -1,0 +1,2 @@
+# AldiAplKotlin
+Aplikasi Kotlin Sederhana
